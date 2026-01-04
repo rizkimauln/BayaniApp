@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490506946938",
+    "project_id": "bayaniapp-cf012",
+    "storage_bucket": "bayaniapp-cf012.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490506946938:android:cc5b5fb8a0ed3615f4eec3",
+        "android_client_info": {
+          "package_name": "com.example.bayaniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlWBcy5kx-sN9l3Rft-zDYhS2AiXSDFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490506946938:android:3ee83bef46d6e536f4eec3",
+        "android_client_info": {
+          "package_name": "com.rizkimauln.bayani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlWBcy5kx-sN9l3Rft-zDYhS2AiXSDFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
