@@ -22,7 +22,6 @@ Proyek ini lahir dari keresahan mahasiswa Teknik Informatika (UIN Sunan Gunung D
 * **🔍 Smart Science Tagging:** Penandaan visual khusus pada ayat-ayat yang mengandung fakta ilmiah.
 * **🧪 Scientific Facts Integration:** Penjelasan mendalam mengenai korelasi ayat dengan fakta sains modern (Biologi, Astronomi, Fisika, dll).
 * **📖 Digital Quran Reader:** Antarmuka membaca yang bersih, mendukung font standar IndoPak/Utsmani.
-* **🌙 Dark Mode Support:** Kenyamanan membaca di kondisi minim cahaya.
 * **🔖 Smart Bookmark:** Simpan ayat favorit atau bahan tugas ke penyimpanan lokal (Offline Support).
 * **☁️ Cloud Content:** Data fakta sains tersimpan di Cloud (Firebase) sehingga dapat diperbarui secara *real-time*.
 
