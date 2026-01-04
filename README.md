@@ -50,10 +50,10 @@ Aplikasi Bayani sudah tersedia dan dapat diunduh melalui Google Play Store:
 ---
 
 ## 👤 Developer - Mahasiswa Teknik Informatika - UIN Sunan Gunung Djati Bandung (2023)
-**Ratu Qurratul Aini**
-**Rizki Maulana**
-**Sabilla Anggraeni**
-**Yulia Lestari Ningsih**
+* *Ratu Qurratul Aini*
+* *Rizki Maulana*
+* *Sabilla Anggraeni*
+* *Yulia Lestari Ningsih*
 ---
 
 ## 📄 Lisensi
